@@ -1,0 +1,5 @@
+from controller.credit_card_controller import CreditCardController
+
+credit_card_controller = CreditCardController()
+credit_card_controller.create_credit_card_customer()
+
